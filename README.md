@@ -49,3 +49,11 @@ This is a web-based **Customer Churn Prediction System** for SaaS applications. 
 ├── train_model.py # (Optional) Script to train the model
 ├── requirements.txt # List of Python dependencies
 └── README.md # Project documentation
+Screen work;
+<img width="1897" height="855" alt="image" src="https://github.com/user-attachments/assets/4ca9a747-a955-4daa-8389-9846aa988f8b" />
+<img width="1886" height="859" alt="image" src="https://github.com/user-attachments/assets/cca8d3b2-be48-4fff-8a35-256967bef343" />
+<img width="1889" height="852" alt="image" src="https://github.com/user-attachments/assets/6568181e-e9f2-4776-bdc0-ecbf19c673ef" />
+
+
+
+
